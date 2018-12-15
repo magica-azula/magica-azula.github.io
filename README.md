@@ -1,11 +1,14 @@
-![A woman with a blue hood](https://avatars2.githubusercontent.com/u/44760472?s=200&v=4)
+# Magica Azula on Github
 
-# Magica Azula
+We build this website to promote and share our open source projects. In addition it'll host a blog that'll help the team become more involved with the community.
+The project is in its early days. The site is still in alpha version. Several links aren't working and the basic layout isn't appropriate, but gradually we'll cut the edges and organize the machine.
 
-## Description
-A little provider of open source solutions
+## Built with
+```
+  TODO
+```
 
-## Projects
+## Licensing
 ```
   TODO
 ```
